@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 891757c9fdedf824aab20b185aebef1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]
+    100004: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_1
+    100006: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_2
+    100008: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_3
+    100010: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]
+    100012: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_4
+    100014: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_5
+    100016: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_6
+    100018: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]
+    100020: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_7
+    100022: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_8
+    100024: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_9
+    100026: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]
+    100028: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_10
+    100030: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_11
+    100032: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_12
+    100034: '3D View: {3D}'
+    100036: Assembled Stair Stair [209088]
+    100038: Assembled Stair Stair [209088]_[209162]
+    100040: Assembled Stair Stair [209088]_[209164]
+    100042: Assembled Stair Stair [209088]_[209165]
+    100044: Assembled Stair Stair [209088]_[209233]
+    100046: Assembled Stair Stair [209088]_[209235]
+    100048: Assembled Stair Stair [209088]_[209237]
+    100050: Assembled Stair Stair [209088]_[209238]
+    100052: Assembled Stair Stair [209088]_[209240]
+    100054: Assembled Stair Stair [209088]_[209241]
+    100056: Assembled Stair Stair [209088]_[209242]
+    100058: Basic Roof Generic Roof - 300mm [234830]
+    100060: Basic Roof Generic Roof - 300mm [234875]
+    100062: Basic Wall Generic - 200mm [199320]
+    100064: Basic Wall Generic - 200mm [199412]
+    100066: Basic Wall Generic - 200mm [199486]
+    100068: Basic Wall Generic - 200mm [199551]
+    100070: Basic Wall Generic - 200mm [199635]
+    100072: Basic Wall Generic - 200mm [199680]
+    100074: Basic Wall Generic - 200mm [202626]
+    100076: Basic Wall Generic - 200mm [204529]
+    100078: Basic Wall Generic - 200mm [204590]
+    100080: Basic Wall Generic - 200mm [209534]
+    100082: Basic Wall Generic - 200mm [209673]
+    100084: Basic Wall Generic - 200mm [210938]
+    100086: Basic Wall Generic - 200mm [210991]
+    100088: Basic Wall Generic - 200mm [211074]
+    100090: Basic Wall Generic - 200mm [211136]
+    100092: Basic Wall Generic - 200mm [211183]
+    100094: Basic Wall Generic - 200mm [211230]
+    100096: Basic Wall Generic - 200mm [212863]
+    100098: Basic Wall Generic - 200mm [212923]
+    100100: Basic Wall Generic - 200mm [212955]
+    100102: Basic Wall Generic - 250mm [203901]
+    100104: Casement 3x3 with Trim 36" x 48" [212446]
+    100106: Casement 3x3 with Trim 36" x 48" [212476]
+    100108: Casement 3x3 with Trim 36" x 48" [212506]
+    100110: Casement 3x3 with Trim 36" x 48" [212538]
+    100112: Casement 3x3 with Trim 36" x 48" [212562]
+    100114: Casement 3x3 with Trim 36" x 48" [212589]
+    100116: Casement 3x3 with Trim 36" x 48" [212618]
+    100118: Casement 3x3 with Trim 36" x 48" [212645]
+    100120: Casement 3x3 with Trim 36" x 48" [212737]
+    100122: Chair_8388 Chair_8388 [231240]
+    100124: Chair_8388 Chair_8388 [231327]
+    100126: Chair_8388 Chair_8388 [231631]
+    100128: Door-Interior-Double-Full Glass-Wood 72" x 84" [230096]
+    100130: Door-Interior-Double-Full Glass-Wood 72" x 84" [234800]
+    100132: Door-Interior-Single-Full Glass-Wood 36" x 84" [208632]
+    100134: Family1 Family1 [213761]
+    100136: Family1 Family1 [213872]
+    100138: Floor Generic Floor - 400mm 2 [199789]
+    100140: Floor Generic Floor - 400mm 3 [200776]
+    100142: Floor Generic Floor - 400mm 3 [201421]
+    100144: Floor Generic Floor - 400mm 4 [211530]
+    100146: Floor Generic Floor - 400mm [199770]
+    100148: Large_Outdoor_Fire_Place_11814 Large_Outdoor_Fire_Place_11814 [224938]
+    100150: Non-Monolithic Landing Non-Monolithic Landing [209235]
+    100152: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209162]
+    100154: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209233]
+    100156: Railing 900mm Pipe [209262]
+    100158: Railing 900mm Pipe [209262]_[209272]
+    100160: Railing 900mm Pipe [209262]_[209274]
+    100162: Railing 900mm Pipe [209262]_[209279]
+    100164: sofa-1_2493 sofa-1_2493 [238396]
+    100166: Sofa-Pensi 84" [235535]
+    100168: Sofa-Pensi 84" [235578]
+    100170: Square_Table_2072 Square_Table_2072 [240098]
+    100172: Stand_Fan_14950 Stand_Fan_14950 [237667]
+    100174: Stringer Stringer - 50mm Width [209164]
+    100176: Stringer Stringer - 50mm Width [209165]
+    100178: Stringer Stringer - 50mm Width [209237]
+    100180: Stringer Stringer - 50mm Width [209238]
+    100182: Stringer Stringer - 50mm Width [209240]
+    100184: Stringer Stringer - 50mm Width [209241]
+    100186: Stringer Stringer - 50mm Width [209242]
+    100188: Table_Lamp_631 100 Watt Incandescent [239185]
+    100190: Table_Lamp_631 100 Watt Incandescent [239185]_13
+    100192: Table_Lamp_631 100 Watt Incandescent [239185]_[239161]
+    100194: Top Rail Type Circular - 40mm [209306]
+    400000: //RootNode
+    400002: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]
+    400004: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_1
+    400006: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_2
+    400008: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]_3
+    400010: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]
+    400012: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_4
+    400014: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_5
+    400016: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]_6
+    400018: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]
+    400020: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_7
+    400022: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_8
+    400024: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]_9
+    400026: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]
+    400028: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_10
+    400030: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_11
+    400032: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]_12
+    400034: '3D View: {3D}'
+    400036: Assembled Stair Stair [209088]
+    400038: Assembled Stair Stair [209088]_[209162]
+    400040: Assembled Stair Stair [209088]_[209164]
+    400042: Assembled Stair Stair [209088]_[209165]
+    400044: Assembled Stair Stair [209088]_[209233]
+    400046: Assembled Stair Stair [209088]_[209235]
+    400048: Assembled Stair Stair [209088]_[209237]
+    400050: Assembled Stair Stair [209088]_[209238]
+    400052: Assembled Stair Stair [209088]_[209240]
+    400054: Assembled Stair Stair [209088]_[209241]
+    400056: Assembled Stair Stair [209088]_[209242]
+    400058: Basic Roof Generic Roof - 300mm [234830]
+    400060: Basic Roof Generic Roof - 300mm [234875]
+    400062: Basic Wall Generic - 200mm [199320]
+    400064: Basic Wall Generic - 200mm [199412]
+    400066: Basic Wall Generic - 200mm [199486]
+    400068: Basic Wall Generic - 200mm [199551]
+    400070: Basic Wall Generic - 200mm [199635]
+    400072: Basic Wall Generic - 200mm [199680]
+    400074: Basic Wall Generic - 200mm [202626]
+    400076: Basic Wall Generic - 200mm [204529]
+    400078: Basic Wall Generic - 200mm [204590]
+    400080: Basic Wall Generic - 200mm [209534]
+    400082: Basic Wall Generic - 200mm [209673]
+    400084: Basic Wall Generic - 200mm [210938]
+    400086: Basic Wall Generic - 200mm [210991]
+    400088: Basic Wall Generic - 200mm [211074]
+    400090: Basic Wall Generic - 200mm [211136]
+    400092: Basic Wall Generic - 200mm [211183]
+    400094: Basic Wall Generic - 200mm [211230]
+    400096: Basic Wall Generic - 200mm [212863]
+    400098: Basic Wall Generic - 200mm [212923]
+    400100: Basic Wall Generic - 200mm [212955]
+    400102: Basic Wall Generic - 250mm [203901]
+    400104: Casement 3x3 with Trim 36" x 48" [212446]
+    400106: Casement 3x3 with Trim 36" x 48" [212476]
+    400108: Casement 3x3 with Trim 36" x 48" [212506]
+    400110: Casement 3x3 with Trim 36" x 48" [212538]
+    400112: Casement 3x3 with Trim 36" x 48" [212562]
+    400114: Casement 3x3 with Trim 36" x 48" [212589]
+    400116: Casement 3x3 with Trim 36" x 48" [212618]
+    400118: Casement 3x3 with Trim 36" x 48" [212645]
+    400120: Casement 3x3 with Trim 36" x 48" [212737]
+    400122: Chair_8388 Chair_8388 [231240]
+    400124: Chair_8388 Chair_8388 [231327]
+    400126: Chair_8388 Chair_8388 [231631]
+    400128: Door-Interior-Double-Full Glass-Wood 72" x 84" [230096]
+    400130: Door-Interior-Double-Full Glass-Wood 72" x 84" [234800]
+    400132: Door-Interior-Single-Full Glass-Wood 36" x 84" [208632]
+    400134: Family1 Family1 [213761]
+    400136: Family1 Family1 [213872]
+    400138: Floor Generic Floor - 400mm 2 [199789]
+    400140: Floor Generic Floor - 400mm 3 [200776]
+    400142: Floor Generic Floor - 400mm 3 [201421]
+    400144: Floor Generic Floor - 400mm 4 [211530]
+    400146: Floor Generic Floor - 400mm [199770]
+    400148: Large_Outdoor_Fire_Place_11814 Large_Outdoor_Fire_Place_11814 [224938]
+    400150: Non-Monolithic Landing Non-Monolithic Landing [209235]
+    400152: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209162]
+    400154: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209233]
+    400156: Railing 900mm Pipe [209262]
+    400158: Railing 900mm Pipe [209262]_[209272]
+    400160: Railing 900mm Pipe [209262]_[209274]
+    400162: Railing 900mm Pipe [209262]_[209279]
+    400164: sofa-1_2493 sofa-1_2493 [238396]
+    400166: Sofa-Pensi 84" [235535]
+    400168: Sofa-Pensi 84" [235578]
+    400170: Square_Table_2072 Square_Table_2072 [240098]
+    400172: Stand_Fan_14950 Stand_Fan_14950 [237667]
+    400174: Stringer Stringer - 50mm Width [209164]
+    400176: Stringer Stringer - 50mm Width [209165]
+    400178: Stringer Stringer - 50mm Width [209237]
+    400180: Stringer Stringer - 50mm Width [209238]
+    400182: Stringer Stringer - 50mm Width [209240]
+    400184: Stringer Stringer - 50mm Width [209241]
+    400186: Stringer Stringer - 50mm Width [209242]
+    400188: Table_Lamp_631 100 Watt Incandescent [239185]
+    400190: Table_Lamp_631 100 Watt Incandescent [239185]_13
+    400192: Table_Lamp_631 100 Watt Incandescent [239185]_[239161]
+    400194: Top Rail Type Circular - 40mm [209306]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]
+    2300002: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]
+    2300004: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]
+    2300006: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]
+    2300008: Assembled Stair Stair [209088]_[209162]
+    2300010: Assembled Stair Stair [209088]_[209164]
+    2300012: Assembled Stair Stair [209088]_[209165]
+    2300014: Assembled Stair Stair [209088]_[209233]
+    2300016: Assembled Stair Stair [209088]_[209235]
+    2300018: Assembled Stair Stair [209088]_[209237]
+    2300020: Assembled Stair Stair [209088]_[209238]
+    2300022: Assembled Stair Stair [209088]_[209240]
+    2300024: Assembled Stair Stair [209088]_[209241]
+    2300026: Assembled Stair Stair [209088]_[209242]
+    2300028: Basic Roof Generic Roof - 300mm [234830]
+    2300030: Basic Roof Generic Roof - 300mm [234875]
+    2300032: Basic Wall Generic - 200mm [199320]
+    2300034: Basic Wall Generic - 200mm [199412]
+    2300036: Basic Wall Generic - 200mm [199486]
+    2300038: Basic Wall Generic - 200mm [199551]
+    2300040: Basic Wall Generic - 200mm [199635]
+    2300042: Basic Wall Generic - 200mm [199680]
+    2300044: Basic Wall Generic - 200mm [202626]
+    2300046: Basic Wall Generic - 200mm [204529]
+    2300048: Basic Wall Generic - 200mm [204590]
+    2300050: Basic Wall Generic - 200mm [209534]
+    2300052: Basic Wall Generic - 200mm [209673]
+    2300054: Basic Wall Generic - 200mm [210938]
+    2300056: Basic Wall Generic - 200mm [210991]
+    2300058: Basic Wall Generic - 200mm [211074]
+    2300060: Basic Wall Generic - 200mm [211136]
+    2300062: Basic Wall Generic - 200mm [211183]
+    2300064: Basic Wall Generic - 200mm [211230]
+    2300066: Basic Wall Generic - 200mm [212863]
+    2300068: Basic Wall Generic - 200mm [212923]
+    2300070: Basic Wall Generic - 200mm [212955]
+    2300072: Basic Wall Generic - 250mm [203901]
+    2300074: Casement 3x3 with Trim 36" x 48" [212446]
+    2300076: Casement 3x3 with Trim 36" x 48" [212476]
+    2300078: Casement 3x3 with Trim 36" x 48" [212506]
+    2300080: Casement 3x3 with Trim 36" x 48" [212538]
+    2300082: Casement 3x3 with Trim 36" x 48" [212562]
+    2300084: Casement 3x3 with Trim 36" x 48" [212589]
+    2300086: Casement 3x3 with Trim 36" x 48" [212618]
+    2300088: Casement 3x3 with Trim 36" x 48" [212645]
+    2300090: Casement 3x3 with Trim 36" x 48" [212737]
+    2300092: Chair_8388 Chair_8388 [231240]
+    2300094: Chair_8388 Chair_8388 [231327]
+    2300096: Chair_8388 Chair_8388 [231631]
+    2300098: Door-Interior-Double-Full Glass-Wood 72" x 84" [230096]
+    2300100: Door-Interior-Double-Full Glass-Wood 72" x 84" [234800]
+    2300102: Door-Interior-Single-Full Glass-Wood 36" x 84" [208632]
+    2300104: Family1 Family1 [213761]
+    2300106: Family1 Family1 [213872]
+    2300108: Floor Generic Floor - 400mm 2 [199789]
+    2300110: Floor Generic Floor - 400mm 3 [200776]
+    2300112: Floor Generic Floor - 400mm 3 [201421]
+    2300114: Floor Generic Floor - 400mm 4 [211530]
+    2300116: Floor Generic Floor - 400mm [199770]
+    2300118: Large_Outdoor_Fire_Place_11814 Large_Outdoor_Fire_Place_11814 [224938]
+    2300120: Non-Monolithic Landing Non-Monolithic Landing [209235]
+    2300122: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209162]
+    2300124: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209233]
+    2300126: Railing 900mm Pipe [209262]
+    2300128: Railing 900mm Pipe [209262]_[209272]
+    2300130: Railing 900mm Pipe [209262]_[209274]
+    2300132: Railing 900mm Pipe [209262]_[209279]
+    2300134: sofa-1_2493 sofa-1_2493 [238396]
+    2300136: Sofa-Pensi 84" [235535]
+    2300138: Sofa-Pensi 84" [235578]
+    2300140: Square_Table_2072 Square_Table_2072 [240098]
+    2300142: Stand_Fan_14950 Stand_Fan_14950 [237667]
+    2300144: Stringer Stringer - 50mm Width [209164]
+    2300146: Stringer Stringer - 50mm Width [209165]
+    2300148: Stringer Stringer - 50mm Width [209237]
+    2300150: Stringer Stringer - 50mm Width [209238]
+    2300152: Stringer Stringer - 50mm Width [209240]
+    2300154: Stringer Stringer - 50mm Width [209241]
+    2300156: Stringer Stringer - 50mm Width [209242]
+    2300158: Table_Lamp_631 100 Watt Incandescent [239185]_[239161]
+    2300160: Top Rail Type Circular - 40mm [209306]
+    3300000: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]
+    3300002: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223775]
+    3300004: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223887]
+    3300006: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223957]
+    3300008: Assembled Stair Stair [209088]_[209162]
+    3300010: Assembled Stair Stair [209088]_[209164]
+    3300012: Assembled Stair Stair [209088]_[209165]
+    3300014: Assembled Stair Stair [209088]_[209233]
+    3300016: Assembled Stair Stair [209088]_[209235]
+    3300018: Assembled Stair Stair [209088]_[209237]
+    3300020: Assembled Stair Stair [209088]_[209238]
+    3300022: Assembled Stair Stair [209088]_[209240]
+    3300024: Assembled Stair Stair [209088]_[209241]
+    3300026: Assembled Stair Stair [209088]_[209242]
+    3300028: Basic Roof Generic Roof - 300mm [234830]
+    3300030: Basic Roof Generic Roof - 300mm [234875]
+    3300032: Basic Wall Generic - 200mm [199320]
+    3300034: Basic Wall Generic - 200mm [199412]
+    3300036: Basic Wall Generic - 200mm [199486]
+    3300038: Basic Wall Generic - 200mm [199551]
+    3300040: Basic Wall Generic - 200mm [199635]
+    3300042: Basic Wall Generic - 200mm [199680]
+    3300044: Basic Wall Generic - 200mm [202626]
+    3300046: Basic Wall Generic - 200mm [204529]
+    3300048: Basic Wall Generic - 200mm [204590]
+    3300050: Basic Wall Generic - 200mm [209534]
+    3300052: Basic Wall Generic - 200mm [209673]
+    3300054: Basic Wall Generic - 200mm [210938]
+    3300056: Basic Wall Generic - 200mm [210991]
+    3300058: Basic Wall Generic - 200mm [211074]
+    3300060: Basic Wall Generic - 200mm [211136]
+    3300062: Basic Wall Generic - 200mm [211183]
+    3300064: Basic Wall Generic - 200mm [211230]
+    3300066: Basic Wall Generic - 200mm [212863]
+    3300068: Basic Wall Generic - 200mm [212923]
+    3300070: Basic Wall Generic - 200mm [212955]
+    3300072: Basic Wall Generic - 250mm [203901]
+    3300074: Casement 3x3 with Trim 36" x 48" [212446]
+    3300076: Casement 3x3 with Trim 36" x 48" [212476]
+    3300078: Casement 3x3 with Trim 36" x 48" [212506]
+    3300080: Casement 3x3 with Trim 36" x 48" [212538]
+    3300082: Casement 3x3 with Trim 36" x 48" [212562]
+    3300084: Casement 3x3 with Trim 36" x 48" [212589]
+    3300086: Casement 3x3 with Trim 36" x 48" [212618]
+    3300088: Casement 3x3 with Trim 36" x 48" [212645]
+    3300090: Casement 3x3 with Trim 36" x 48" [212737]
+    3300092: Chair_8388 Chair_8388 [231240]
+    3300094: Chair_8388 Chair_8388 [231327]
+    3300096: Chair_8388 Chair_8388 [231631]
+    3300098: Door-Interior-Double-Full Glass-Wood 72" x 84" [230096]
+    3300100: Door-Interior-Double-Full Glass-Wood 72" x 84" [234800]
+    3300102: Door-Interior-Single-Full Glass-Wood 36" x 84" [208632]
+    3300104: Family1 Family1 [213761]
+    3300106: Family1 Family1 [213872]
+    3300108: Floor Generic Floor - 400mm 2 [199789]
+    3300110: Floor Generic Floor - 400mm 3 [200776]
+    3300112: Floor Generic Floor - 400mm 3 [201421]
+    3300114: Floor Generic Floor - 400mm 4 [211530]
+    3300116: Floor Generic Floor - 400mm [199770]
+    3300118: Large_Outdoor_Fire_Place_11814 Large_Outdoor_Fire_Place_11814 [224938]
+    3300120: Non-Monolithic Landing Non-Monolithic Landing [209235]
+    3300122: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209162]
+    3300124: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [209233]
+    3300126: Railing 900mm Pipe [209262]
+    3300128: Railing 900mm Pipe [209262]_[209272]
+    3300130: Railing 900mm Pipe [209262]_[209274]
+    3300132: Railing 900mm Pipe [209262]_[209279]
+    3300134: sofa-1_2493 sofa-1_2493 [238396]
+    3300136: Sofa-Pensi 84" [235535]
+    3300138: Sofa-Pensi 84" [235578]
+    3300140: Square_Table_2072 Square_Table_2072 [240098]
+    3300142: Stand_Fan_14950 Stand_Fan_14950 [237667]
+    3300144: Stringer Stringer - 50mm Width [209164]
+    3300146: Stringer Stringer - 50mm Width [209165]
+    3300148: Stringer Stringer - 50mm Width [209237]
+    3300150: Stringer Stringer - 50mm Width [209238]
+    3300152: Stringer Stringer - 50mm Width [209240]
+    3300154: Stringer Stringer - 50mm Width [209241]
+    3300156: Stringer Stringer - 50mm Width [209242]
+    3300158: Table_Lamp_631 100 Watt Incandescent [239185]_[239161]
+    3300160: Top Rail Type Circular - 40mm [209306]
+    4300000: Basic Wall Generic - 200mm [199320]
+    4300002: Basic Wall Generic - 200mm [199412]
+    4300004: Basic Wall Generic - 200mm [199486]
+    4300006: Basic Wall Generic - 200mm [199551]
+    4300008: Basic Wall Generic - 200mm [199635]
+    4300010: Basic Wall Generic - 200mm [199680]
+    4300012: Floor Generic Floor - 400mm [199770]
+    4300014: Floor Generic Floor - 400mm 2 [199789]
+    4300016: Floor Generic Floor - 400mm 3 [200776]
+    4300018: Floor Generic Floor - 400mm 3 [201421]
+    4300020: Basic Wall Generic - 200mm [202626]
+    4300022: Basic Wall Generic - 250mm [203901]
+    4300024: Basic Wall Generic - 200mm [204529]
+    4300026: Basic Wall Generic - 200mm [204590]
+    4300028: Door-Interior-Single-Full Glass-Wood 36" x 84" [208632]
+    4300030: Assembled Stair Stair [209088]_[209242]
+    4300032: Assembled Stair Stair [209088]_[209241]
+    4300034: Assembled Stair Stair [209088]_[209240]
+    4300036: Assembled Stair Stair [209088]_[209238]
+    4300038: Assembled Stair Stair [209088]_[209237]
+    4300040: Assembled Stair Stair [209088]_[209235]
+    4300042: Assembled Stair Stair [209088]_[209233]
+    4300044: Assembled Stair Stair [209088]_[209165]
+    4300046: Assembled Stair Stair [209088]_[209164]
+    4300048: Assembled Stair Stair [209088]_[209162]
+    4300050: Stringer Stringer - 50mm Width [209164]
+    4300052: Stringer Stringer - 50mm Width [209165]
+    4300054: Stringer Stringer - 50mm Width [209237]
+    4300056: Stringer Stringer - 50mm Width [209238]
+    4300058: Stringer Stringer - 50mm Width [209240]
+    4300060: Stringer Stringer - 50mm Width [209241]
+    4300062: Stringer Stringer - 50mm Width [209242]
+    4300064: Railing 900mm Pipe [209262]
+    4300066: Railing 900mm Pipe [209262]_[209279]
+    4300068: Railing 900mm Pipe [209262]_[209274]
+    4300070: Railing 900mm Pipe [209262]_[209272]
+    4300072: Top Rail Type Circular - 40mm [209306]
+    4300074: Basic Wall Generic - 200mm [209534]
+    4300076: Basic Wall Generic - 200mm [209673]
+    4300078: Basic Wall Generic - 200mm [210938]
+    4300080: Basic Wall Generic - 200mm [210991]
+    4300082: Basic Wall Generic - 200mm [211074]
+    4300084: Basic Wall Generic - 200mm [211136]
+    4300086: Basic Wall Generic - 200mm [211183]
+    4300088: Basic Wall Generic - 200mm [211230]
+    4300090: Floor Generic Floor - 400mm 4 [211530]
+    4300092: Casement 3x3 with Trim 36" x 48" [212446]
+    4300094: Basic Wall Generic - 200mm [212863]
+    4300096: Basic Wall Generic - 200mm [212923]
+    4300098: Basic Wall Generic - 200mm [212955]
+    4300100: Family1 Family1 [213761]
+    4300102: 3_Light_Chandelier_11576 3_Light_Chandelier_11576 [223573]
+    4300104: Large_Outdoor_Fire_Place_11814 Large_Outdoor_Fire_Place_11814 [224938]
+    4300106: Door-Interior-Double-Full Glass-Wood 72" x 84" [230096]
+    4300108: Chair_8388 Chair_8388 [231240]
+    4300110: Basic Roof Generic Roof - 300mm [234830]
+    4300112: Basic Roof Generic Roof - 300mm [234875]
+    4300114: Sofa-Pensi 84" [235535]
+    4300116: Stand_Fan_14950 Stand_Fan_14950 [237667]
+    4300118: sofa-1_2493 sofa-1_2493 [238396]
+    4300120: Table_Lamp_631 100 Watt Incandescent [239185]_[239161]
+    4300122: Square_Table_2072 Square_Table_2072 [240098]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

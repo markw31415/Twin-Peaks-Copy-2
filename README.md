@@ -12,5 +12,5 @@ Add assets - I've already added locations for these.
   Big Log where they found LP body
 Put sound effects in these locations
 Add good shader for eerie effects
-  
+Decide at what point I'm at the MVP so I can send to Lynch/Frost Productions (Pegasus flythru)
   

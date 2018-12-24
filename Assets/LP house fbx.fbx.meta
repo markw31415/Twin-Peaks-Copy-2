@@ -485,12 +485,72 @@ ModelImporter:
     4300162: polySurface20
     4300164: polySurface21
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_frame_mat
+    second: {fileID: 2100000, guid: 8789d9ce13cb1ab4da34d993f5e34f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_glass_mat
+    second: {fileID: 2100000, guid: f075f39d58bae1a499fdc373be73a160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house_base_mat
+    second: {fileID: 2100000, guid: e76300b105608974b82d7418b1d39f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_lining_mat
+    second: {fileID: 2100000, guid: 18c7bf11e8bf8624dbc857311a7b546e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_tiles01
+    second: {fileID: 2100000, guid: 24854315c12815a469c6ca0098fa98bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_tiles02
+    second: {fileID: 2100000, guid: c1501fd1344ea3f45b6ffc21eee26973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_tiles_mat
+    second: {fileID: 2100000, guid: 72bb00ece7bfdda4aa623532664e1254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_type02_frame_mat
+    second: {fileID: 2100000, guid: e0990694bfc651749af57c211a066753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_type02_mat
+    second: {fileID: 2100000, guid: a1b255b5cc72dc543b13388cc65fcba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows_glass_mat
+    second: {fileID: 2100000, guid: 59333f00744d25b4bb9b7031888b0d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowtype01_frame_mat
+    second: {fileID: 2100000, guid: 22526b05e51db0245a21da0de1ca3930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowtype01_mat
+    second: {fileID: 2100000, guid: da1cb6e00c8bcdb4b860d30c357954a0, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -519,6 +579,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -543,6 +604,9 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

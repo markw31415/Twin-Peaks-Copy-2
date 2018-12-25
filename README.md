@@ -4,7 +4,7 @@ Add assets - I've already added locations for these.
   
   Packard Sawmill
   
-  Martell House
+  Martell House (Packard House) - need to make area around river sandy banks, and need to put water in
   
   Old Northern
   

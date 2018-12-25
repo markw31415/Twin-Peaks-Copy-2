@@ -490,66 +490,66 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: door_frame_mat
-    second: {fileID: 2100000, guid: 8789d9ce13cb1ab4da34d993f5e34f04, type: 2}
+    second: {fileID: 2100000, guid: 58180b2e8169ce64295e18f5fdec5d7b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: door_glass_mat
-    second: {fileID: 2100000, guid: f075f39d58bae1a499fdc373be73a160, type: 2}
+    second: {fileID: 2100000, guid: 531f070465903fd459ffb0ece2aa800a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: house_base_mat
-    second: {fileID: 2100000, guid: e76300b105608974b82d7418b1d39f6a, type: 2}
+    second: {fileID: 2100000, guid: 65a52794a2d46154996693897079764f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: roof_lining_mat
-    second: {fileID: 2100000, guid: 18c7bf11e8bf8624dbc857311a7b546e, type: 2}
+    second: {fileID: 2100000, guid: bdc07b74b4c5f494ab2d4b04b0712b26, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: roof_tiles01
-    second: {fileID: 2100000, guid: 24854315c12815a469c6ca0098fa98bb, type: 2}
+    second: {fileID: 2100000, guid: 9d565dc3ed13aab479c5522427a9aa21, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: roof_tiles02
-    second: {fileID: 2100000, guid: c1501fd1344ea3f45b6ffc21eee26973, type: 2}
+    second: {fileID: 2100000, guid: 560189877ddca3a43801c9295aa9a94b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wall_tiles_mat
-    second: {fileID: 2100000, guid: 72bb00ece7bfdda4aa623532664e1254, type: 2}
+    second: {fileID: 2100000, guid: a5cec02bb4e8dd849b5bd4a93377a922, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: window_type02_frame_mat
-    second: {fileID: 2100000, guid: e0990694bfc651749af57c211a066753, type: 2}
+    second: {fileID: 2100000, guid: 0f8bd64419fdf244d9ca30b64c278d67, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: window_type02_mat
-    second: {fileID: 2100000, guid: a1b255b5cc72dc543b13388cc65fcba7, type: 2}
+    second: {fileID: 2100000, guid: ff976b5c656acf84f80781480c4a4aa6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: windows_glass_mat
-    second: {fileID: 2100000, guid: 59333f00744d25b4bb9b7031888b0d17, type: 2}
+    second: {fileID: 2100000, guid: a2eefdd831cb4914f937e0b260048161, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: windowtype01_frame_mat
-    second: {fileID: 2100000, guid: 22526b05e51db0245a21da0de1ca3930, type: 2}
+    second: {fileID: 2100000, guid: 5123db1baba531c4387e44e9d3e50fab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: windowtype01_mat
-    second: {fileID: 2100000, guid: da1cb6e00c8bcdb4b860d30c357954a0, type: 2}
+    second: {fileID: 2100000, guid: 9f985dc9b01d0b545bcc4f3ad4115715, type: 2}
   materials:
     importMaterials: 1
-    materialName: 2
-    materialSearch: 1
+    materialName: 0
+    materialSearch: 2
     materialLocation: 0
   animations:
     legacyGenerateAnimations: 4

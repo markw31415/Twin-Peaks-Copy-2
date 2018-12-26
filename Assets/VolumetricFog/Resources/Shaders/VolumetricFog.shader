@@ -38,9 +38,11 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 			#pragma fragment fragBackFog
 // Shader compile options - remove or set explicitly to reduce compilation time and unwanted shader variants
 #pragma multi_compile __ FOG_DISTANCE_ON
-#pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
-#pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
-#pragma multi_compile __ FOG_HAZE_ON FOG_USE_XY_PLANE
+// Disabled by Shader Control: #pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
+// Edited by Shader Control: #pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
+#pragma multi_compile __ FOG_OF_WAR_ON
+// Edited by Shader Control: #pragma multi_compile __ FOG_HAZE_ON FOG_USE_XY_PLANE
+#pragma multi_compile __ FOG_HAZE_ON 
 #pragma multi_compile __ FOG_SCATTERING_ON
 #pragma multi_compile __ FOG_BLUR_ON
 #pragma multi_compile __ FOG_POINT_LIGHTS
@@ -57,9 +59,10 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 			#pragma fragment fragGetFog
 // Shader compile options - remove or set explicitly to reduce compilation time and unwanted shader variants
 #pragma multi_compile __ FOG_DISTANCE_ON
-#pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
-#pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
-#pragma multi_compile __ FOG_USE_XY_PLANE
+// Disabled by Shader Control: #pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
+// Edited by Shader Control: #pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
+#pragma multi_compile __ FOG_OF_WAR_ON
+// Disabled by Shader Control: #pragma multi_compile __ FOG_USE_XY_PLANE
 #pragma multi_compile __ FOG_POINT_LIGHTS
 #pragma multi_compile __ FOG_SUN_SHADOWS_ON
 #pragma multi_compile __ FOG_COMPUTE_DEPTH
@@ -88,9 +91,10 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 			#pragma fragment fragGetJustFog
 			// Shader compile options - remove or set explicitly to reduce compilation time and unwanted shader variants
 #pragma multi_compile __ FOG_DISTANCE_ON
-#pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
-#pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
-#pragma multi_compile __ FOG_USE_XY_PLANE
+// Disabled by Shader Control: #pragma multi_compile __ FOG_AREA_SPHERE FOG_AREA_BOX
+// Edited by Shader Control: #pragma multi_compile __ FOG_VOID_SPHERE FOG_VOID_BOX FOG_OF_WAR_ON
+#pragma multi_compile __ FOG_OF_WAR_ON
+// Disabled by Shader Control: #pragma multi_compile __ FOG_USE_XY_PLANE
 #pragma multi_compile __ FOG_POINT_LIGHTS
 #pragma multi_compile __ FOG_SUN_SHADOWS_ON
 #pragma multi_compile __ FOG_COMPUTE_DEPTH
